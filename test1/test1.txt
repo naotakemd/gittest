@@ -1,5 +1,6 @@
-‚±‚ê‚ÍƒeƒXƒg1ƒuƒ‰ƒ“ƒ`Œü‚¯‚Ìƒtƒ@ƒCƒ‹‚Å‚·B
+ã“ã‚Œã¯ãƒ†ã‚¹ãƒˆ1ãƒ–ãƒ©ãƒ³ãƒå‘ã‘ã®ãƒ•ã‚¡ã‚¤ãƒ«ã§ã™ã€‚
 modify on feature/test3.
 Write line is feature/test7.
 Write line is feature/test9.
 Write line is feature/test11.
+Write line is direct on 2014/12/18 10:24
